@@ -1,0 +1,5 @@
+[0423/150748.888:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir23196_1744941636\Crashpad: The system cannot find the file specified. (0x2)
+[0423/150807.304:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir5760_412306841\Crashpad: The system cannot find the file specified. (0x2)
+[0423/160105.538:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir1704_1871207578\Crashpad: The system cannot find the file specified. (0x2)
+[0423/160237.504:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir6108_621632202\Crashpad: The system cannot find the file specified. (0x2)
+[0424/095432.497:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
